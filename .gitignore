@@ -1,0 +1,6 @@
+node_modules/
+*.exe
+*.bin
+output.txt
+compressed.bin
+.DS_Store
