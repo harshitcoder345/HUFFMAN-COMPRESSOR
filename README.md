@@ -5,14 +5,19 @@ An interactive, end-to-end Text Compression tool built using the Huffman Coding 
 Key Features
 
 -Real-time Compression: See immediate results and compression ratios as you type.
+
 -Performance Dashboard: Visualizes Original Size (bits), Compressed Size (bits), and exact Space Saved (%).
+
 -Huffman Dictionary Table: Dynamically generates and displays binary codes (0s & 1s) for each character.
+
 -Binary File Export (C++): Real-world compression that converts text files into actual compact .bin files and restores them perfectly.
 
 🛠️ Tech Stack
 
 -Frontend: React.js, Tailwind CSS (loaded via CDN)
+
 -Backend: C++ (using STL, Standard File I/O, and Priority Queues)
+
 -Algorithm: Huffman Coding (greedy algorithm using Min-Heap)
 
 🚀 How to Run the Project
